@@ -68,5 +68,35 @@ export const animeEndings = [
         "Opening 1"
             ]
     }
+  },
+{
+    name: "A Couple of Cuckoos	Opening 2	Glitter by sumika",
+    videoId: "https://vhdist1.catbox.video/epmhvh.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 2"
+      ]
+    }
+  },
+{
+    name: "Mix: Meisei Story Season 2	Opening 1	Starting Over by sumika",
+    videoId: "https://ladist1.catbox.video/tg3l3h.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 1"
+      ]
+    }
+  },
+{
+    name: "Delicious in Dungeon	Opening 2	Unmei by sumika",
+    videoId: "https://ladist1.catbox.video/3he1jg.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 2"
+      ]
+    }
   }
 ];
