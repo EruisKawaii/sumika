@@ -25,7 +25,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "IN"
+        "INS"
       ]
     }
   },
